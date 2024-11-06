@@ -38,6 +38,13 @@
 10.	
 ![image](https://github.com/user-attachments/assets/218ca1df-759c-4401-9026-9957067d1c3f)
 
-Изменения и оставитьб комментарии 
+Изменения и оставить комментарии 
 
 ![image](https://github.com/user-attachments/assets/2a017d7a-4937-4d94-8ee6-d915e5097b73)
+
+Получить историю операций в форматированном виде 
+
+![image](https://github.com/user-attachments/assets/9132f2db-e382-405d-86a0-81e230a7fd22)
+
+![image](https://github.com/user-attachments/assets/bd03d122-349c-4dd0-9629-0f94df0182e9)
+
